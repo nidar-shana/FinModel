@@ -1,2 +1,2 @@
 # FinModel
-Project on Financial Modeling
+Project on Financial Modeling using advanced excel
